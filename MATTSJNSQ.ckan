@@ -1,0 +1,216 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-JNSQ-Branch",
+    "name": "installed-JNSQ Branch",
+    "abstract": "A list of modules installed on the JNSQ Branch KSP instance",
+    "author": "matth",
+    "version": "2024.07.15.09.50.35",
+    "ksp_version_min": "1.12.5",
+    "ksp_version_max": "1.12.5",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "CelestialBodyScienceEditor"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus"
+        },
+        {
+            "name": "ContractConfigurator-PlanesWithPurposes"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoEngines-NFAero"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "DTV2"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "EVAParachutes"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "Kerbalism-Config-Default"
+        },
+        {
+            "name": "KerbTrack"
+        },
+        {
+            "name": "kOS-KerbalEngineer"
+        },
+        {
+            "name": "kOSPropMonitor"
+        },
+        {
+            "name": "KSAIVAUpgrade"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET"
+        },
+        {
+            "name": "NavballDockAlignIndCE"
+        },
+        {
+            "name": "NavUtilitiesUpdated"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "PoodsCalmNebulaSkybox"
+        },
+        {
+            "name": "RCSBuildAidCont"
+        },
+        {
+            "name": "ResearchAdvancementDivision"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "Reviva"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        },
+        {
+            "name": "Strategia"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "ThroughTheEyesOfaKerbal"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "UnKerballedStart"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "VesselView-UI-RasterPropMonitor"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "WaterfallRestock"
+        },
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "release_date": "2024-07-15T21:50:35.7118981Z",
+    "kind": "metapackage"
+}
