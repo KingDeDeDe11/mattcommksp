@@ -1,10 +1,10 @@
 {
     "spec_version": "v1.18",
-    "identifier": "installed-JNSQ-Branch",
-    "name": "installed-JNSQ Branch",
-    "abstract": "A list of modules installed on the JNSQ Branch KSP instance",
-    "author": "matth",
-    "version": "2024.07.15.09.50.35",
+    "identifier": "installed-2024-10",
+    "name": "installed-2024-10",
+    "abstract": "A list of modules installed on the 2024-10 KSP instance",
+    "author": "your mom",
+    "version": "2024.10.24.08.54.44",
     "ksp_version_min": "1.12.5",
     "ksp_version_max": "1.12.5",
     "license": "unknown",
@@ -28,7 +28,10 @@
             "name": "BetterTimeWarpCont"
         },
         {
-            "name": "CelestialBodyScienceEditor"
+            "name": "Bureaucracy"
+        },
+        {
+            "name": "ClickThroughBlocker"
         },
         {
             "name": "CommunityCategoryKit"
@@ -40,16 +43,19 @@
             "name": "CommunityTechTree"
         },
         {
+            "name": "ContractConfigurator"
+        },
+        {
             "name": "ContractConfigurator-ExplorationPlus"
         },
         {
             "name": "ContractConfigurator-PlanesWithPurposes"
         },
         {
-            "name": "CryoEngines"
+            "name": "CryoTanks"
         },
         {
-            "name": "CryoEngines-NFAero"
+            "name": "CryoTanks-Core"
         },
         {
             "name": "CustomBarnKit"
@@ -58,37 +64,43 @@
             "name": "DE-IVAExtension"
         },
         {
+            "name": "Deferred"
+        },
+        {
             "name": "DistantObject"
+        },
+        {
+            "name": "DistantObject-default"
         },
         {
             "name": "DockingPortAlignmentIndicator"
         },
         {
-            "name": "DTV2"
-        },
-        {
             "name": "EasyVesselSwitch"
-        },
-        {
-            "name": "EnvironmentalVisualEnhancements"
         },
         {
             "name": "EVAParachutes"
         },
         {
+            "name": "EVARepairs"
+        },
+        {
+            "name": "FlightTracker"
+        },
+        {
             "name": "FreeIva"
         },
         {
-            "name": "HullcamVDSContinued"
+            "name": "Harmony2"
         },
         {
-            "name": "JNSQ"
+            "name": "HideEmptyTechNodes"
         },
         {
             "name": "KAS"
         },
         {
-            "name": "KerbalAlarmClock"
+            "name": "KerbalChangelog"
         },
         {
             "name": "KerbalEngineerRedux"
@@ -100,28 +112,31 @@
             "name": "Kerbalism-Config-Default"
         },
         {
-            "name": "KerbTrack"
-        },
-        {
-            "name": "kOS-KerbalEngineer"
-        },
-        {
-            "name": "kOSPropMonitor"
-        },
-        {
             "name": "KSAIVAUpgrade"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "MarkIVSpaceplaneSystem"
         },
         {
             "name": "MK12PodIVAReplacementbyASET"
         },
         {
+            "name": "Mk1CockpitIVAReplbyASET"
+        },
+        {
             "name": "Mk1LanderCanIVAReplbyASET"
         },
         {
-            "name": "NavballDockAlignIndCE"
+            "name": "ModuleManager"
         },
         {
-            "name": "NavUtilitiesUpdated"
+            "name": "NavballDockAlignIndCE"
         },
         {
             "name": "NearFutureAeronautics"
@@ -131,6 +146,9 @@
         },
         {
             "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
         },
         {
             "name": "NearFutureExploration"
@@ -148,16 +166,16 @@
             "name": "NearFutureSolar"
         },
         {
+            "name": "NearFutureSolar-Core"
+        },
+        {
             "name": "NearFutureSpacecraft"
         },
         {
             "name": "Parallax"
         },
         {
-            "name": "PoodsCalmNebulaSkybox"
-        },
-        {
-            "name": "RCSBuildAidCont"
+            "name": "RasterPropMonitor-Core"
         },
         {
             "name": "ResearchAdvancementDivision"
@@ -169,10 +187,7 @@
             "name": "ReStockPlus"
         },
         {
-            "name": "Reviva"
-        },
-        {
-            "name": "Scatterer"
+            "name": "SpaceTuxLibrary"
         },
         {
             "name": "StationPartsExpansionRedux"
@@ -184,10 +199,10 @@
             "name": "Strategia"
         },
         {
-            "name": "TextureReplacer"
+            "name": "ThroughTheEyesOfaKerbal"
         },
         {
-            "name": "ThroughTheEyesOfaKerbal"
+            "name": "ToolbarController"
         },
         {
             "name": "TUFX"
@@ -206,11 +221,8 @@
         },
         {
             "name": "WaterfallRestock"
-        },
-        {
-            "name": "WaypointManager"
         }
     ],
-    "release_date": "2024-07-15T21:50:35.7118981Z",
+    "release_date": "2024-10-24T20:54:44.5791034Z",
     "kind": "metapackage"
 }
