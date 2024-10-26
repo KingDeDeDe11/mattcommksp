@@ -1,0 +1,234 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-2024-10",
+    "name": "installed-2024-10",
+    "abstract": "A list of modules installed on the 2024-10 KSP instance",
+    "author": "tammy faye baker",
+    "version": "2024.10.26.08.25.26",
+    "ksp_version_min": "1.12.5",
+    "ksp_version_max": "1.12.5",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "AtmosphereAutopilot"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus"
+        },
+        {
+            "name": "ContractConfigurator-PlanesWithPurposes"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "Deferred"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "EVAParachutes"
+        },
+        {
+            "name": "EVARepairs"
+        },
+        {
+            "name": "FlightTracker"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "Kerbalism-Config-Default"
+        },
+        {
+            "name": "KSAIVAUpgrade"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "MarkIVSpaceplaneSystem"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        },
+        {
+            "name": "Mk1CockpitIVAReplbyASET"
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NavballDockAlignIndCE"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "PoodsCalmNebulaSkybox"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ResearchAdvancementDivision"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "RosterManager"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        },
+        {
+            "name": "Strategia"
+        },
+        {
+            "name": "ThroughTheEyesOfaKerbal"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "UnKerballedStart"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "VesselView-UI-RasterPropMonitor"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "WaterfallRestock"
+        }
+    ],
+    "release_date": "2024-10-26T20:25:26.0425391Z",
+    "kind": "metapackage"
+}
