@@ -1,4 +1,4 @@
-{
+    {
     "spec_version": "v1.18",
     "identifier": "installed-2024-10",
     "name": "installed-2024-10",
@@ -83,6 +83,10 @@
         },
         {
             "name": "EVARepairs"
+        },
+        {
+            "name": "Firefly",
+            "suppress_recommendations": true
         },
         {
             "name": "FlightTracker"
@@ -221,6 +225,10 @@
         },
         {
             "name": "VesselView-UI-RasterPropMonitor"
+        },
+        {
+            "name": "VaporCones",
+            "suppress_recommendations": true
         },
         {
             "name": "Waterfall"
