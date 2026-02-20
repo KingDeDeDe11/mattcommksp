@@ -362,10 +362,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RosterManager",
-            "suppress_recommendations": true
-        },
-        {
             "name": "Scatterer",
             "suppress_recommendations": true
         },
@@ -397,3 +393,4 @@
     "release_date": "2025-09-17T22:11:21.1949224Z",
     "kind": "metapackage"
 }
+
