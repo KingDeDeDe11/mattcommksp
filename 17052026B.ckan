@@ -1,0 +1,239 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "installed-17052026",
+    "name": "installed-17052026",
+    "abstract": "A list of modules installed on the 17052026 KSP instance",
+    "author": "matth",
+    "version": "2026.05.25.07.32.44",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "B9PartSwitch",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Kerbalism",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureProps",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityCategoryKit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbinSideRemastered",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbinSideCore",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TextureReplacer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TexturesUnlimited",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AirplanePlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AtmosphereAutopilot",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9-PWings-Fork",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterTimeWarpCont",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "GAP",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DE-IVAExtension",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Deferred",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DockingPortAlignmentIndicator",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DTV2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EVAParachutes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Firefly",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FreeIva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HullcamVDSContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ImprovedUpdatedChaseCam",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "InternalRCS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementNext",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalismCompatibilityOverhaul",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalismLabExperimentsExpandedContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbinSideRemasteredGAP",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSAIVAUpgrade",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "LazyPainter",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk1CockpitIVAReplbyASET",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk3ShuttleMidDeckIVARefurbished",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NavballDockAlignIndCE",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NavUtilitiesUpdated",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureConstruction",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureExploration",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSolar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetsideExplorationTechnologies",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PoodsCalmNebulaSkybox",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RCSBuildAid",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RestockWaterfallExpansion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStockPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Reviva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SCANsat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Shaddy",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SimpleRepaint",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SuperBattery",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VesselView",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VexarpIVA",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2026-05-25T19:32:44.801541Z",
+    "kind": "metapackage"
+}
