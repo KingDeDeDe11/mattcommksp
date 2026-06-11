@@ -82,10 +82,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "DTV2",
-            "suppress_recommendations": true
-        },
-        {
             "name": "EVAParachutes",
             "suppress_recommendations": true
         },
